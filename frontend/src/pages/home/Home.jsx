@@ -159,7 +159,7 @@ const Home = () => {
                 {/* Welcome Section */}
                 <div className="flex justify-center items-center mb-8">
                     <div>
-                        <h1 className="text-3xl md:text-4xl font-bold text-white">Welcome back, <span className="text-primary">Mp3949!</span></h1>
+                        <h1 className="text-3xl md:text-4xl font-bold text-white">Welcome back, <span className="text-primary">userID</span></h1>
                         <p className="text-gray-400">Ready for today's challenge?</p>
                     </div>
                 </div>
